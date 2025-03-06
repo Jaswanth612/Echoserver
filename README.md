@@ -43,8 +43,10 @@ with socket.create_connection((HOST, PORT)) as s:
 
 
 ## OUTPUT:
+![Screenshot 2025-03-06 115257](https://github.com/user-attachments/assets/db4602ac-0dd3-428d-ba76-5cf01aea33a9)
+![Screenshot 2025-03-06 115414](https://github.com/user-attachments/assets/bee285ef-5362-4121-b7d5-8811109f0f79)
 
-![Screenshot 2025-03-06 112915](https://github.com/user-attachments/assets/32f3e255-e084-4528-b3ec-147b5d5eeab4)
+
 
 
 ## RESULT:
